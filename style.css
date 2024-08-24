@@ -1,0 +1,20 @@
+html{
+    background-color: aqua;
+}   
+.container {
+    align-items: center;    
+    background-color: wheat;
+    width: 70%; /*  */
+    margin: 0 auto; /* margin-left: auto;   margin-right: auto; */
+    max-width: 1920px; /* Stop somewehere while u are shrinking, (work well with % width) */
+    margin-top: 80px;
+}
+
+h1{
+    text-align: left;
+    padding-top: 10px;
+}
+
+#img1 {
+    width: 250px;
+}
